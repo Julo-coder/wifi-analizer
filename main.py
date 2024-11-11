@@ -1,1 +1,1 @@
-#Initial file with all imported files with codes
+#This program only works on Linux or Windows computers. Unfortunately macOS does not support all wifi commands.
